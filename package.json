@@ -1,0 +1,13 @@
+{
+  "name": "ts-zod-schema",
+  "version": "1.0.0",
+  "description": "Zod-compatible runtime type validation and parsing",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
